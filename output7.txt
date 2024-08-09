@@ -1,0 +1,4 @@
+Xau da doc duoc: a1 A2 c1 f5
+Ky tu A xuat hien 2 lan
+Ky tu C xuat hien 1 lan
+Ky tu F xuat hien 1 lan
